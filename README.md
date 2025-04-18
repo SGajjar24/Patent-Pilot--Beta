@@ -16,7 +16,7 @@
 ## ✨ Live Demo
 
 The application is deployed and accessible at:
-https://3000-i3a997zmzxqfwfwillcp8-363be2a4.manus.computer
+https://patent-pilot-beta.vercel.app/
 
 ## 📋 Table of Contents
 
